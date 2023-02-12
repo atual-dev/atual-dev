@@ -39,6 +39,8 @@ I'm Atul.
   <a href="https://nodejs.dev/en/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodejs.div" width="40" height="40"/> </a>
     <!-- Npm -->
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354128/npm.svg" alt="npm" width="40" height="40"/> </a>
+    <!-- Yarn -->
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374205/yarn.svg" alt="yarn" width="40" height="40"/> </a>
   <!--Express  -->
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <!-- Php -->
