@@ -67,4 +67,8 @@ I'm Atul.
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376339/netlify.svg" alt="nodejs.div" width="40" height="40"/> </a>
 <!-- Python -->
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<!-- Java -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<!-- Oracle -->
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
