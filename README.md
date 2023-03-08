@@ -73,4 +73,6 @@ I'm Atul.
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <!-- Android Studio -->
 <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="oracle" width="40" height="40"/> </a>
+<!-- Nhost -->
+<a href="https://nhost.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZV7Ntp3V6ASkFjZHvcMzZQAAAA?w=168&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="Nhost" width="40" height="40"/> </a>
 </p>
