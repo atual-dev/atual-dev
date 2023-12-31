@@ -67,12 +67,12 @@ I'm Atul.
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376339/netlify.svg" alt="nodejs.div" width="40" height="40"/> </a>
 <!-- Python -->
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<!-- Java -->
+<!-- Java
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<!-- Oracle -->
+Oracle
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<!-- Android Studio -->
+Android Studio
 <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="oracle" width="40" height="40"/> </a>
-<!-- Nhost -->
-<a href="https://nhost.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZV7Ntp3V6ASkFjZHvcMzZQAAAA?w=168&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="Nhost" width="40" height="40"/> </a>
+Nhost
+<a href="https://nhost.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZV7Ntp3V6ASkFjZHvcMzZQAAAA?w=168&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="Nhost" width="40" height="40"/> </a> -->
 </p>
