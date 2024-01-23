@@ -67,12 +67,27 @@ I'm Atul.
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376339/netlify.svg" alt="nodejs.div" width="40" height="40"/> </a>
 <!-- Python -->
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<!-- Java
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-Oracle
+<!-- Oracle -->
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-Android Studio
+<!-- Android Studio -->
 <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="oracle" width="40" height="40"/> </a>
-Nhost
-<a href="https://nhost.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZV7Ntp3V6ASkFjZHvcMzZQAAAA?w=168&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="Nhost" width="40" height="40"/> </a> -->
+
+# 👾 i like these awesome tools
+- Coding
+   - code editor: [vscode](https://code.visualstudio.com/)
+      - Font: [Cascadi Code](https://github.com/Atugatran/Atugatran/releases/download/CascadiaCode/CascadiaCode.zip)
+   - JavaScript runtime [Node JS](https://nodejs.org/en)
+   - terminal: [ohmyposh](https://ohmyposh.dev/)
+   - Test API: [postman](https://www.postman.com/downloads/)
+   - git client: [git](https://git-scm.com/)
+   - Android Emulator: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA5L2tBhBTEiwAdSxJX6VyOXQrqQKu8Bs0i6Px9_ZSTWud1IuexyZcouvDEZHemBU3KgCTTxoC29kQAvD_BwE&gclsrc=aw.ds)
+      - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
+  - Database: [xampp](https://www.apachefriends.org/) , [wamp](https://wampserver.aviatechno.net/) and [MongodbCompass](https://www.mongodb.com/try/download/community)
+- Software
+  - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/)
+  - virtual machines: [VMware Workstation Pro](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html) and [docker](https://www.docker.com/)
+    - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
+    - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
+  - Office: [Ms office](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe)
+  - notes: [notion](https://www.notion.so/) even has an ai
 </p>
