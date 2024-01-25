@@ -73,21 +73,47 @@ I'm Atul.
 <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="oracle" width="40" height="40"/> </a>
 
 # 👾 i like these awesome tools
+<!-- Coding -->
 - Coding
+    <!-- Code Editor -->
    - code editor: [vscode](https://code.visualstudio.com/)
+      <!-- Fonts -->
       - Font: [Cascadi Code](https://github.com/Atugatran/Atugatran/releases/download/CascadiaCode/CascadiaCode.zip)
-   - JavaScript runtime [Node JS](https://nodejs.org/en)
+   <!-- Terminal -->
    - terminal: [ohmyposh](https://ohmyposh.dev/)
-   - Test API: [postman](https://www.postman.com/downloads/)
-   - git client: [git](https://git-scm.com/)
+   <!-- git -->
+   - git client: [git](https://git-scm.com/) and [github](https://github.com/)
+   <!-- Android -->
    - Android Emulator: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA5L2tBhBTEiwAdSxJX6VyOXQrqQKu8Bs0i6Px9_ZSTWud1IuexyZcouvDEZHemBU3KgCTTxoC29kQAvD_BwE&gclsrc=aw.ds)
       - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
-  - Database: [xampp](https://www.apachefriends.org/) , [wamp](https://wampserver.aviatechno.net/) and [MongodbCompass](https://www.mongodb.com/try/download/community)
 - Software
   - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/)
   - virtual machines: [VMware Workstation Pro](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html) and [docker](https://www.docker.com/)
     - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
     - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
-  - Office: [Ms office](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe)
+  - Office: [Ms office](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe)  
   - notes: [notion](https://www.notion.so/) even has an ai
+- for your server (Host your Websites)
+  - services: [cloudflare](https://www.cloudflare.com/), [github pages](https://pages.github.com/), [render](https://render.com/) and [webhostmost](https://webhostmost.com/)
+# 👨‍💻 when coding, i like these technologies:
+- frontend: [react js](https://react.dev/) (nice for single page application)
+    - [Create-React-App](https://create-react-app.dev/)
+- backend (with templating):
+  - javascript: [node.js](https://nodejs.org/en/)+[express](https://expressjs.com/)+[pug](https://pugjs.org/api/getting-started.html) templates
+- store data
+  - [mongodb](https://www.mongodb.com/try/download/community) is the best for simple data
+  - [xampp](https://www.apachefriends.org/) and [wamp](https://wampserver.aviatechno.net/) is the easy for store data
+- tools
+  - styles
+    - [bootstrap](https://getbootstrap.com/) and [tailwind](https://tailwindcss.com/) for css
+    - [tailblocks](https://tailblocks.cc/) for css components
+    - [syntax highlighting lib](https://prismjs.com/) (also has experimental [live](https://live.prismjs.com/) editing support)
+  - fonts
+    - [google fonts](https://fonts.google.com/)
+  - icons
+    - [bootstrap-icons](https://icons.getbootstrap.com/) for icons
+    - [fontawesome](https://fontawesome.com/)
+  - test api
+    - [postman](https://www.postman.com/downloads/)
+<!-- - Android -->
 </p>
