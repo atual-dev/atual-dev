@@ -79,6 +79,7 @@ I'm Atul.
    - code editor: [vscode](https://code.visualstudio.com/)
       <!-- Fonts -->
       - Font: [Cascadi Code](https://github.com/Atugatran/Atugatran/releases/download/CascadiaCode/CascadiaCode.zip)
+      - Font: [Caskaydia](https://github.com/Atugatran/Atugatran/releases/download/Caskaydia/Caskaydia.zip)
    <!-- Terminal -->
    - terminal: [ohmyposh](https://ohmyposh.dev/)
    <!-- git -->
