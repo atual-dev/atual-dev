@@ -118,7 +118,7 @@ I'm Atul.
 - tools
   - styles
     - [bootstrap](https://getbootstrap.com/) and [tailwind](https://tailwindcss.com/) for css
-    - [tailblocks](https://tailblocks.cc/) for css components
+    - [tailblocks](https://tailblocks.cc/) and  [ui.shadcn/](https://ui.shadcn.com/) for css components
     - [syntax highlighting lib](https://prismjs.com/) (also has experimental [live](https://live.prismjs.com/) editing support)
   - fonts
     - [google fonts](https://fonts.google.com/)
