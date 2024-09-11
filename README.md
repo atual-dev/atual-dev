@@ -99,7 +99,7 @@ I'm Atul.
       - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
 - Software
   - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/)
-  - [WindowsCleanerUtility](https://github.com/Atugatran/WindowsCleanerUtility)
+  - [WindowsCleanerUtility](https://github.com/Atugatran/Atugatran/releases/tag/WindowsCleanerUtility)
   - virtual machines: [VMware Workstation Pro](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html) and [docker](https://www.docker.com/)
     - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
     - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
