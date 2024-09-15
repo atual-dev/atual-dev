@@ -108,7 +108,7 @@ I'm Atul.
   - Office: [Ms office](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
   - notes: [notion](https://www.notion.so/) even has an ai
 - for your server (Host your Websites)
-  - services: [cloudflare](https://www.cloudflare.com/), [github pages](https://pages.github.com/), [render](https://render.com/) and [webhostmost](https://webhostmost.com/)
+  - services: [cloudflare](https://www.cloudflare.com/), [github pages](https://pages.github.com/), [render](https://render.com/) and [alwaysdata](https://www.alwaysdata.com/en/)
 # 👨‍💻 when coding, i like these technologies:
 - frontend: [react js](https://react.dev/) (nice for single page application)
     - [Create-React-App](https://create-react-app.dev/)
