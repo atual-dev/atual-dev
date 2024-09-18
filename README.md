@@ -95,7 +95,7 @@ I'm Atul.
    <!-- Terminal -->
    - terminal: [ohmyposh](https://ohmyposh.dev/)
    <!-- git -->
-   - git client: [git](https://git-scm.com/) and [github](https://github.com/) [dotenv](https://vault.dotenv.org/)
+   - git client: [git](https://git-scm.com/) and [github](https://github.com/) and [dotenv](https://vault.dotenv.org/)
    <!-- Android -->
    - Android Emulator: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA5L2tBhBTEiwAdSxJX6VyOXQrqQKu8Bs0i6Px9_ZSTWud1IuexyZcouvDEZHemBU3KgCTTxoC29kQAvD_BwE&gclsrc=aw.ds)
       - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
