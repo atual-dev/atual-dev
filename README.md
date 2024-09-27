@@ -112,6 +112,7 @@ I'm Atul.
     - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
     - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
   - Office: [Ms office](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
+  - Video to image extractor [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe)
   - notes: [notion](https://www.notion.so/) even has an ai
 - for your server (Host your Websites)
   - services: [cloudflare](https://www.cloudflare.com/), [github pages](https://pages.github.com/), [render](https://render.com/) and [alwaysdata](https://www.alwaysdata.com/en/)
