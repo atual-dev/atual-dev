@@ -1,7 +1,8 @@
 <!-- banner -->
 
 ![Atugatran Banner](./img/Banner.png)
-
+<!-- Profile View -->
+![](https://komarev.com/ghpvc/?username=Atugatran&color=lightgrey)
 <!-- tittle -->
 <h1 align='center'> Hi! There 👋</h1>
 
