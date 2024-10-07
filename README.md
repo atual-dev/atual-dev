@@ -1,6 +1,6 @@
 <!-- banner -->
 
-![Atugatran Banner](./img/Banner.png)
+![Atugatran Banner](./img/github-header-image.png)
 <!-- Profile View -->
 ![](https://komarev.com/ghpvc/?username=Atugatran&color=lightgrey)
 <!-- tittle -->
