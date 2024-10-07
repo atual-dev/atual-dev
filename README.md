@@ -4,8 +4,6 @@
 <!-- Profile View -->
 ![](https://komarev.com/ghpvc/?username=Atugatran&color=lightgrey)
 
-[![Atul Goyal profile views](https://u8views.com/api/v1/github/profiles/96774108/views/day-week-month-total-count.svg)](https://u8views.com/github/atul22g8570)
-
 <!-- tittle -->
 <h1 align='center'> Hi! There 👋</h1>
 
