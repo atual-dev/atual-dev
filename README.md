@@ -100,8 +100,6 @@ I'm Atul.
       <!-- Fonts -->
       - Font: [Cascadi Code](https://github.com/Atugatran/Atugatran/releases/download/CascadiaCode/CascadiaCode.zip)
       - Font: [Caskaydia](https://github.com/Atugatran/Atugatran/releases/download/Caskaydia/Caskaydia.zip)
-   <!-- Terminal -->
-   - terminal: [ohmyposh](https://ohmyposh.dev/)
    <!-- git -->
    - git client: [git](https://git-scm.com/) and [github](https://github.com/) and [dotenv](https://vault.dotenv.org/)
    <!-- Android -->
@@ -109,14 +107,12 @@ I'm Atul.
       - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
 - Software
   - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/)
-  - [WindowsCleanerUtility](https://github.com/Atugatran/Atugatran/releases/tag/WindowsCleanerUtility)
   - [NVIDIA_GeForce_Experience](https://github.com/Atugatran/Atugatran/releases/download/NVIDIA_GeForce_Experience/NVIDIA_GeForce_Experience.exe) and [CleanupTool](https://github.com/Atugatran/Atugatran/releases/download/NVIDIA_GeForce_Experience/CleanupTool_1.0.20.0.exe)
   - virtual machines: [VMware Workstation Pro](https://github.com/atul-vhd/Softwares/releases/download/Vmware/VMware-workstation-full-17.6.1-24319023.exe) and [docker](https://www.docker.com/)
     - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
     - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
   - Office: [Ms office](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
   - Video to image extractor [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe)
-  - notes: [notion](https://www.notion.so/) even has an ai
 - for your server (Host your Websites)
   - services: [cloudflare](https://www.cloudflare.com/), [github pages](https://pages.github.com/), [render](https://render.com/) and [alwaysdata](https://www.alwaysdata.com/en/)
 # 👨‍💻 when coding, i like these technologies:
