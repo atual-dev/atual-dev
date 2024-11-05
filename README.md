@@ -105,9 +105,18 @@ I'm Atul.
    <!-- Android -->
    - Android Emulator: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA5L2tBhBTEiwAdSxJX6VyOXQrqQKu8Bs0i6Px9_ZSTWud1IuexyZcouvDEZHemBU3KgCTTxoC29kQAvD_BwE&gclsrc=aw.ds)
       - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
+- Winget
+  - For VMware Pro:
+    - winget install -e --id Microsoft.VCRedist.2015+.x64
+    - winget install -e --id Microsoft.VCRedist.2015+.x86
+  - For G-Helper:
+    - winget install -e --id=Microsoft.DotNet.DesktopRuntime.8   
+    
+
 - Software
-  - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/)
-  - [NVIDIA_GeForce_Experience](https://github.com/Atugatran/Atugatran/releases/download/NVIDIA_GeForce_Experience/NVIDIA_GeForce_Experience.exe) and [CleanupTool](https://github.com/Atugatran/Atugatran/releases/download/NVIDIA_GeForce_Experience/CleanupTool_1.0.20.0.exe)
+  - Ram Cleaner Tool: [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
+  - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/) or [G-Helper](https://github.com/seerge/g-helper)
+  - [Nvdia App](https://www.nvidia.com/en-in/software/nvidia-app/)
   - virtual machines: [VMware Workstation Pro](https://github.com/atul-vhd/Softwares/releases/download/Vmware/VMware-workstation-full-17.6.1-24319023.exe) and [docker](https://www.docker.com/)
     - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
     - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
