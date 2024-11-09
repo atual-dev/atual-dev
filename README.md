@@ -111,10 +111,9 @@ I'm Atul.
     - winget install -e --id Microsoft.VCRedist.2015+.x86
   - For G-Helper:
     - winget install -e --id=Microsoft.DotNet.DesktopRuntime.8   
-    
 
 - Software
-  - Ram Cleaner Tool: [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
+  - Ram Cleaner Tool: [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) and [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare)
   - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/) or [G-Helper](https://github.com/seerge/g-helper)
   - [Nvdia App](https://www.nvidia.com/en-in/software/nvidia-app/)
   - virtual machines: [VMware Workstation Pro](https://github.com/atul-vhd/Softwares/releases/download/Vmware/VMware-workstation-full-17.6.1-24319023.exe) and [docker](https://www.docker.com/)
