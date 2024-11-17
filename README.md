@@ -105,13 +105,6 @@ I'm Atul.
    <!-- Android -->
    - Android Emulator: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA5L2tBhBTEiwAdSxJX6VyOXQrqQKu8Bs0i6Px9_ZSTWud1IuexyZcouvDEZHemBU3KgCTTxoC29kQAvD_BwE&gclsrc=aw.ds)
       - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
-- Winget
-  - For VMware Pro:
-    - winget install -e --id Microsoft.VCRedist.2015+.x64
-    - winget install -e --id Microsoft.VCRedist.2015+.x86
-  - For G-Helper:
-    - winget install -e --id=Microsoft.DotNet.DesktopRuntime.8   
-
 - Software
   - Ram Cleaner Tool: [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) and [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare)
   - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/) or [G-Helper](https://github.com/seerge/g-helper)
