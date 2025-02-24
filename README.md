@@ -115,7 +115,7 @@ I'm Atul.
   - Office: [Ms office](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
   - Video to image extractor [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe)
 - for your server (Host your Websites)
-  - services: [cloudflare](https://www.cloudflare.com/), [github pages](https://pages.github.com/), [render](https://render.com/) and [alwaysdata](https://www.alwaysdata.com/en/)
+  - services: [cloudflare](https://www.cloudflare.com/), [github pages](https://pages.github.com/), [render](https://render.com/), [netlify](https://www.netlify.com/) and [alwaysdata](https://www.alwaysdata.com/en/)
 # 👨‍💻 when coding, i like these technologies:
 - frontend: [react js](https://react.dev/) (nice for single page application)
     - [Create-React-App](https://create-react-app.dev/)
