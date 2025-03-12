@@ -122,8 +122,10 @@ I'm Atul.
 - backend (with templating):
   - javascript: [node.js](https://nodejs.org/en/)+[express](https://expressjs.com/)+[pug](https://pugjs.org/api/getting-started.html) templates
 - store data
-  - [mongodb](https://www.mongodb.com/try/download/community) is the best for simple data
-  - [xampp](https://www.apachefriends.org/) and [wamp](https://wampserver.aviatechno.net/) is the easy for store data
+  - [mongodb](https://www.mongodb.com/try/download/community) and [redis](https://redis.io/) is the best for simple data
+  - [xampp](https://www.apachefriends.org/), [wamp](https://wampserver.aviatechno.net/) and [postgreSql](https://www.postgresql.org/) is the easy for store data
+- Dev
+   - [WebContainer](https://webcontainers.io/) Dev environments In your web app.
 - tools
   - styles
     - [bootstrap](https://getbootstrap.com/) and [tailwind](https://tailwindcss.com/) for css
