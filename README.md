@@ -1,9 +1,6 @@
 <!-- banner -->
 
 ![Atugatran Banner](./img/github-header-image.png)
-<!-- Profile View -->
-![](https://komarev.com/ghpvc/?username=Atugatran&color=lightgrey)
-
 <!-- tittle -->
 <h1 align='center'> Hi! There 👋</h1>
 
@@ -92,53 +89,75 @@ I'm Atul.
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
-# 👾 i like these awesome tools
-<!-- Coding -->
-- Coding
+# 👾 i like these awesome Softwares
+<!-- Software -->
+- Software
+  - Ram Cleaner Tool: [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) and [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare) <!-- Ram Cleaner Tool -->
+  - Assus Software: [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/) and [G-Helper](https://github.com/seerge/g-helper) <!-- Ram Assus  -->
+  - Graphics Drivers: [Nvdia App](https://www.nvidia.com/en-in/software/nvidia-app/)<!-- Graphics Drivers  -->
+  - Virtual Machines: [VMware Workstation Pro](https://github.com/atul-vhd/Softwares/releases/download/Vmware/VMware-workstation-full-17.6.1-24319023.exe) and [docker](https://www.docker.com/)
+    - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
+    - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare) <!--virtual machines-->
+  - Ms Office: [Ms office 365](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation) <!--Ms Office-->
+  - Video to image extractor [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe) <!--Video to image extractor-->
+<!-- Coding Software -->
+- Coding Software
     <!-- Code Editor -->
-   - code editor: [vscode](https://code.visualstudio.com/)
+   - Code Editor: [vscode](https://code.visualstudio.com/)
       <!-- Fonts -->
       - Font: [Cascadi Code](https://github.com/Atugatran/Atugatran/releases/download/CascadiaCode/CascadiaCode.zip)
       - Font: [Caskaydia](https://github.com/Atugatran/Atugatran/releases/download/Caskaydia/Caskaydia.zip)
-   <!-- git -->
-   - git client: [git](https://git-scm.com/) and [github](https://github.com/) and [dotenv](https://vault.dotenv.org/)
-   <!-- Android -->
-   - Android Emulator: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA5L2tBhBTEiwAdSxJX6VyOXQrqQKu8Bs0i6Px9_ZSTWud1IuexyZcouvDEZHemBU3KgCTTxoC29kQAvD_BwE&gclsrc=aw.ds)
-      - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
-- Software
-  - Ram Cleaner Tool: [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) and [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare)
-  - [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/) or [G-Helper](https://github.com/seerge/g-helper)
-  - [Nvdia App](https://www.nvidia.com/en-in/software/nvidia-app/)
-  - virtual machines: [VMware Workstation Pro](https://github.com/atul-vhd/Softwares/releases/download/Vmware/VMware-workstation-full-17.6.1-24319023.exe) and [docker](https://www.docker.com/)
-    - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
-    - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
-  - Office: [Ms office](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
-  - Video to image extractor [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe)
-- for your server (Host your Websites)
-  - services: [cloudflare](https://www.cloudflare.com/), [github pages](https://pages.github.com/), [render](https://render.com/), [netlify](https://www.netlify.com/) and [alwaysdata](https://www.alwaysdata.com/en/)
+   - Android Code Editor: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA5L2tBhBTEiwAdSxJX6VyOXQrqQKu8Bs0i6Px9_ZSTWud1IuexyZcouvDEZHemBU3KgCTTxoC29kQAvD_BwE&gclsrc=aw.ds)
+     - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
+   <!-- Version Control -->
+   - Version Control : [git](https://git-scm.com/) and [github](https://github.com/)
+   - Test API: [Postman](https://www.postman.com/downloads/) 
+  
+  
 # 👨‍💻 when coding, i like these technologies:
-- frontend: [react js](https://react.dev/) (nice for single page application)
-    - [Create-React-App](https://create-react-app.dev/)
-- backend (with templating):
-  - javascript: [node.js](https://nodejs.org/en/)+[express](https://expressjs.com/)+[pug](https://pugjs.org/api/getting-started.html) templates
-- store data
-  - [mongodb](https://www.mongodb.com/try/download/community) and [redis](https://redis.io/) is the best for simple data
-  - [xampp](https://www.apachefriends.org/), [wamp](https://wampserver.aviatechno.net/) and [postgreSql](https://www.postgresql.org/) is the easy for store data
-- Dev
-   - [WebContainer](https://webcontainers.io/) Dev environments In your web app.
-- tools
-  - styles
-    - [bootstrap](https://getbootstrap.com/) and [tailwind](https://tailwindcss.com/) for css
-    - [tailblocks](https://tailblocks.cc/) and  [ui.shadcn/](https://ui.shadcn.com/) for css components
-    - [syntax highlighting lib](https://prismjs.com/) (also has experimental [live](https://live.prismjs.com/) editing support)
-  - fonts
-    - [google fonts](https://fonts.google.com/)
-  - icons
-    - [bootstrap-icons](https://icons.getbootstrap.com/) for icons
-    - [fontawesome](https://fontawesome.com/)
-  - test api
-    - [postman](https://www.postman.com/downloads/)
-- Android app
-  - [React native](https://reactnative.dev/)
-  - Packages: [reactnavigation](https://reactnavigation.org/) , [async-storage](https://react-native-async-storage.github.io/async-storage/) and [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+###  Frontend
+  - Basics:  [Html](https://html.com/), [Css](https://www.w3schools.com/css/), [Js](https://www.javascript.com/) and [Pug](https://pugjs.org/api/getting-started.html)
+  - front-end framework: [Bootstrap](https://getbootstrap.com/) and [Tailwind](https://tailwindcss.com/)
+  - Liberies: [ReactJs](https://react.dev/), [tailblocks](https://tailblocks.cc/)
+  - Component Library: [ui.shadcn](https://ui.shadcn.com/)
+  - Syntax highlighter:  [syntax highlighting lib](https://prismjs.com/) 
+  - Fonts: [google fonts](https://fonts.google.com/)
+  - Icons: [fontawesome](https://fontawesome.com/)
+  
+### Animation Framework and Liberies
+  - [AOS](https://michalsnik.github.io/aos/)
+  - [AnimeJs](https://animejs.com/)
+  - [ThreeJs](https://threejs.org/)
+  - [Gsap](https://gsap.com/)
+  - [Motion](https://motion.dev/)
+  
+###  Backend
+  - [Node.js](https://nodejs.org/en/)  
+  - [Express](https://expressjs.com/)
+  - [NextJs](https://nextjs.org/)
+
+###  Database
+  - [MongoDb](https://www.mongodb.com/try/download/community)
+  - [Redis](https://redis.io/) 
+  - [Xampp](https://www.apachefriends.org/) 
+  - [Wamp](https://wampserver.aviatechno.net/) 
+  - [PostgreSql](https://www.postgresql.org/)
+
+### RunTime Engine
+  - JavaScript Engine For Web: [WebContainer](https://webcontainers.io/) 
+
+### Deployment
+  - [Cloudflare](https://www.cloudflare.com/) 
+  - [Github Pages](https://pages.github.com/) 
+  - [Render](https://render.com/) 
+  - [Netlify](https://www.netlify.com/) 
+  - [Alwaysdata](https://www.alwaysdata.com/en/)
+
+### Android Development
+- [React native](https://reactnative.dev/)
+   - [reactnavigation](https://reactnavigation.org/)
+   - [async-storage](https://react-native-async-storage.github.io/async-storage/)
+   - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+  
+
 </p>
