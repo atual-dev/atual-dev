@@ -116,9 +116,9 @@ I'm Atul.
   
 # 👨‍💻 when coding, i like these technologies:
 ###  Frontend
-  - Basics:  [Html](https://html.com/), [Css](https://www.w3schools.com/css/), [Js](https://www.javascript.com/) and [Pug](https://pugjs.org/api/getting-started.html)
-  - front-end framework: [Bootstrap](https://getbootstrap.com/) and [Tailwind](https://tailwindcss.com/)
-  - Liberies: [ReactJs](https://react.dev/), [tailblocks](https://tailblocks.cc/)
+  - Basics:  [Html](https://html.com/), [Php](https://www.php.net/), [Css](https://www.w3schools.com/css/), [Js](https://www.javascript.com/), [Saas](https://sass-lang.com/), [Pug](https://pugjs.org/api/getting-started.html)
+  - front-end framework: [Bootstrap](https://getbootstrap.com/) and [Tailwind](https://tailwindcss.com/) and [Typescript](https://www.typescriptlang.org/)
+  - Liberies: [ReactJs](https://react.dev/), [tailblocks](https://tailblocks.cc/), [ReduxToolkit](https://redux-toolkit.js.org/) and [KaboomJs](https://kaboomjs.com/)
   - Component Library: [ui.shadcn](https://ui.shadcn.com/)
   - Syntax highlighter:  [syntax highlighting lib](https://prismjs.com/) 
   - Fonts: [google fonts](https://fonts.google.com/)
@@ -133,15 +133,20 @@ I'm Atul.
   
 ###  Backend
   - [Node.js](https://nodejs.org/en/)  
-  - [Express](https://expressjs.com/)
+    - [Express](https://expressjs.com/)
   - [NextJs](https://nextjs.org/)
+  - [Python](https://python.org/)
+    - [Django](https://www.djangoproject.com/)
 
+### API 
+  - [GraphQL](https://graphql.org/) 
 ###  Database
   - [MongoDb](https://www.mongodb.com/try/download/community)
   - [Redis](https://redis.io/) 
   - [Xampp](https://www.apachefriends.org/) 
   - [Wamp](https://wampserver.aviatechno.net/) 
   - [PostgreSql](https://www.postgresql.org/)
+  - [AppWrite](https://appwrite.io/)
 
 ### RunTime Engine
   - JavaScript Engine For Web: [WebContainer](https://webcontainers.io/) 
@@ -152,12 +157,15 @@ I'm Atul.
   - [Render](https://render.com/) 
   - [Netlify](https://www.netlify.com/) 
   - [Alwaysdata](https://www.alwaysdata.com/en/)
+  - [FireBase](https://firebase.google.com/)s
+
+### Design
+  - [Figma](https://www.figma.com/)
 
 ### Android Development
 - [React native](https://reactnative.dev/)
    - [reactnavigation](https://reactnavigation.org/)
    - [async-storage](https://react-native-async-storage.github.io/async-storage/)
    - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-  
 
 </p>
