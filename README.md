@@ -157,7 +157,7 @@ I'm Atul.
   - [Render](https://render.com/) 
   - [Netlify](https://www.netlify.com/) 
   - [Alwaysdata](https://www.alwaysdata.com/en/)
-  - [FireBase](https://firebase.google.com/)s
+  - [FireBase](https://firebase.google.com/)
 
 ### Design
   - [Figma](https://www.figma.com/)
