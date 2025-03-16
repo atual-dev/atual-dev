@@ -105,8 +105,7 @@ I'm Atul.
     <!-- Code Editor -->
    - Code Editor: [vscode](https://code.visualstudio.com/)
       <!-- Fonts -->
-      - Font: [Cascadi Code](https://github.com/Atugatran/Atugatran/releases/download/CascadiaCode/CascadiaCode.zip)
-      - Font: [Caskaydia](https://github.com/Atugatran/Atugatran/releases/download/Caskaydia/Caskaydia.zip)
+      - Font: [fira code](https://github.com/Atugatran/Atugatran/releases/download/fira_code/Fira_Code_v6.2.zip)
    - Android Code Editor: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA5L2tBhBTEiwAdSxJX6VyOXQrqQKu8Bs0i6Px9_ZSTWud1IuexyZcouvDEZHemBU3KgCTTxoC29kQAvD_BwE&gclsrc=aw.ds)
      - [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
    <!-- Version Control -->
