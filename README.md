@@ -88,6 +88,10 @@ I'm Atul.
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<!-- electronjs -->
+<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
+<!-- redis -->
+ <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
 # 👾 i like these awesome Softwares
 
@@ -123,6 +127,7 @@ I'm Atul.
   
 - **Component Library**: [ui.shadcn](https://ui.shadcn.com/)
 - **Syntax Highlighter**:  [syntax highlighting lib](https://prismjs.com/)
+- **JavaScript Testing**: [Jestjs](https://jestjs.io/)
 - **Desktop Apps**: [ElectronJs](https://www.electronjs.org/)
 - **Fonts**: [google fonts](https://fonts.google.com/)
 - **Icons**: [fontawesome](https://fontawesome.com/)
@@ -139,7 +144,7 @@ I'm Atul.
 - **Deployment**: [Cloudflare](https://www.cloudflare.com/), [Github Pages](https://pages.github.com/), [Render](https://render.com/), [Netlify](https://www.netlify.com/), [Alwaysdata](https://www.alwaysdata.com/en/), [FireBase](https://firebase.google.com/)
 
 
-### Runtime Engine
+###  Runtime
 - **Php Code Runner**: [Xampp](https://www.apachefriends.org/), [Wamp](https://wampserver.aviatechno.net/) 
 - **JavaScript Engine For Web:** [WebContainer](https://webcontainers.io/)
 
