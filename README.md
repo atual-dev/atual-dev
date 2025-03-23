@@ -109,7 +109,7 @@ I'm Atul.
   
 - **Virtual Machines**: [Ms office 365](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
 
-- **Virtual Machines**: [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe) 
+- **Video to Image Extractor**: [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe) 
 
 ## 📦 Coding Software
 - **Code Editor**: [vscode](https://code.visualstudio.com/)
