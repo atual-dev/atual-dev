@@ -115,7 +115,7 @@ I'm Atul.
 - **Code Editor**: [vscode](https://code.visualstudio.com/)
    - **Fonts**: [fira code](https://github.com/Atugatran/Atugatran/releases/download/fira_code/Fira_Code_v6.2.zip)
 - **Version Control**: [git](https://git-scm.com/), [github](https://github.com/)
-- **Test API**: [Postman](https://www.postman.com/downloads/)
+- **Test API**: [Postman](https://www.postman.com/downloads/), [requestly](https://requestly.com/)
 
 ## 🛠 Tools and Technologies
 
@@ -149,7 +149,7 @@ I'm Atul.
 - **JavaScript Engine For Web:** [WebContainer](https://webcontainers.io/)
 
 ### AI 
-=  **freebuff**: [freebuf](https://freebuff.com/)
+-  **freebuff**: [freebuf](https://freebuff.com/)
 
 ## 🎨 Design
 - **Figma**: [Figma](https://www.figma.com/)
