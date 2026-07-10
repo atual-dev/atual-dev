@@ -148,6 +148,8 @@ I'm Atul.
 - **Php Code Runner**: [Xampp](https://www.apachefriends.org/), [Wamp](https://wampserver.aviatechno.net/) 
 - **JavaScript Engine For Web:** [WebContainer](https://webcontainers.io/)
 
+### AI 
+=  **freebuff**: [freebuf](https://freebuff.com/)
 
 ## 🎨 Design
 - **Figma**: [Figma](https://www.figma.com/)
