@@ -150,6 +150,7 @@ I'm Atul.
 
 ### AI 
 -  **freebuff**: [freebuf](https://freebuff.com/)
+-  **GeminiCli**: [GeminiCli](https://geminicli.com/)
 
 ## 🎨 Design
 - **Figma**: [Figma](https://www.figma.com/)
