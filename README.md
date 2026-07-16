@@ -135,22 +135,21 @@ I'm Atul.
 ### Backend
 - **Node.js**: [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/)
 - **NextJs**: [NextJs](https://nextjs.org/)
-- **Python**: [Python](https://python.org/), [Django](https://www.djangoproject.com/)
+- **Python**: [Python](https://python.org/), [Django](https://www.djangoproject.com/), [Fastapi](https://fastapi.tiangolo.com/)
 
 
 ### API & Databases & Deployment
 - **GraphQL**: [GraphQL](https://graphql.org/)
 - **Databases**: [MongoDb](https://www.mongodb.com/try/download/community), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [AppWrite](https://appwrite.io/)
-- **Deployment**: [Cloudflare](https://www.cloudflare.com/), [Github Pages](https://pages.github.com/), [Render](https://render.com/), [Netlify](https://www.netlify.com/), [Alwaysdata](https://www.alwaysdata.com/en/), [FireBase](https://firebase.google.com/)
+- **Deployment**: [Cloudflare](https://www.cloudflare.com/), [Github Pages](https://pages.github.com/), [Vercel](https://vercel.com/)  ,[Render](https://render.com/), [Netlify](https://www.netlify.com/), [FireBase](https://firebase.google.com/)
 
 
 ###  Runtime
 - **Php Code Runner**: [Xampp](https://www.apachefriends.org/), [Wamp](https://wampserver.aviatechno.net/) 
 - **JavaScript Engine For Web:** [WebContainer](https://webcontainers.io/)
 
-### AI 
--  **freebuff**: [freebuf](https://freebuff.com/)
--  **GeminiCli**: [GeminiCli](https://geminicli.com/)
+### Coding AI Friend
+-  **Freebuff**: [Freebuf](https://freebuff.com/)
 
 ## 🎨 Design
 - **Figma**: [Figma](https://www.figma.com/)
