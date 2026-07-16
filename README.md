@@ -141,7 +141,7 @@ I'm Atul.
 ### API & Databases & Deployment
 - **GraphQL**: [GraphQL](https://graphql.org/)
 - **Databases**: [MongoDb](https://www.mongodb.com/try/download/community), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [AppWrite](https://appwrite.io/)
-- **Deployment**: [Cloudflare](https://www.cloudflare.com/), [Github Pages](https://pages.github.com/), [Vercel](https://vercel.com/)  ,[Render](https://render.com/), [Netlify](https://www.netlify.com/), [FireBase](https://firebase.google.com/)
+- **Deployment**: [Cloudflare](https://www.cloudflare.com/), [infinityfree](https://www.infinityfree.com/) ,[Github Pages](https://pages.github.com/), [Vercel](https://vercel.com/)  ,[Render](https://render.com/), [Netlify](https://www.netlify.com/), [FireBase](https://firebase.google.com/)
 
 
 ###  Runtime
