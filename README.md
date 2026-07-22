@@ -61,7 +61,7 @@ I'm Atul.
  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
    <!-- Firebase -->
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> -->
 <!-- Netlify -->
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376339/netlify.svg" alt="nodejs.div" width="40" height="40"/> </a>
 <!-- Python -->
@@ -81,7 +81,7 @@ I'm Atul.
 <!-- redux -->
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <!-- Django -->
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> -->
 <!-- GraphQl -->
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
 <!-- PostgresSql -->
@@ -115,7 +115,7 @@ I'm Atul.
 - **Code Editor**: [vscode](https://code.visualstudio.com/)
    - **Fonts**: [fira code](https://github.com/Atugatran/Atugatran/releases/download/fira_code/Fira_Code_v6.2.zip)
 - **Version Control**: [git](https://git-scm.com/), [github](https://github.com/)
-- **Test API**: [Postman](https://www.postman.com/downloads/), [requestly](https://requestly.com/)
+- **Test API**: [Postman](https://www.postman.com/downloads/), [Requestly](https://requestly.com/)
 
 ## 🛠 Tools and Technologies
 
@@ -135,13 +135,13 @@ I'm Atul.
 ### Backend
 - **Node.js**: [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/)
 - **NextJs**: [NextJs](https://nextjs.org/)
-- **Python**: [Python](https://python.org/), [Django](https://www.djangoproject.com/), [Fastapi](https://fastapi.tiangolo.com/)
+- **Python**: [Python](https://python.org/), [Fastapi](https://fastapi.tiangolo.com/)
 
 
 ### API & Databases & Deployment
 - **GraphQL**: [GraphQL](https://graphql.org/)
 - **Databases**: [MongoDb](https://www.mongodb.com/try/download/community), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [AppWrite](https://appwrite.io/)
-- **Deployment**: [Cloudflare](https://www.cloudflare.com/), [infinityfree](https://www.infinityfree.com/) ,[Github Pages](https://pages.github.com/), [Vercel](https://vercel.com/)  ,[Render](https://render.com/), [Netlify](https://www.netlify.com/), [FireBase](https://firebase.google.com/)
+- **Deployment**: [Cloudflare](https://www.cloudflare.com/), [infinityfree](https://www.infinityfree.com/) ,[Github Pages](https://pages.github.com/), [Vercel](https://vercel.com/)  ,[Render](https://render.com/), [Netlify](https://www.netlify.com/)
 
 
 ###  Runtime
@@ -156,7 +156,7 @@ I'm Atul.
 
 ## 📱 Android Development
 - **Android Studio**: [Android Studio](https://developer.android.com/studio) With [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
-- **React Native**: [React native](https://reactnative.dev/)
+- **Framework**: [React native](https://reactnative.dev/), [Expo](https://expo.dev/)
   - **Navigation**: [reactnavigation](https://reactnavigation.org/)
   - **Async Storage**: [async-storage](https://react-native-async-storage.github.io/async-storage/)
   - **Vector Icons**: [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
