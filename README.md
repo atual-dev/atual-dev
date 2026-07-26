@@ -97,13 +97,13 @@ I'm Atul.
 
 ## 💻 Software
 
-- **Ram Cleaner Tool**: [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner), [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare)
+- **Ram Cleaner Tool**: [WinMemoryCleaner](https://github.com/Repocitories/WinMemoryCleaner), [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare)
 
 - **Assus Software**: [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/), [G-Helper](https://github.com/seerge/g-helper)
 
 - **Graphics Drivers**: [Nvdia App](https://www.nvidia.com/en-in/software/nvidia-app/)
 
-- **Virtual Machines**: [VMware Workstation Pro](https://github.com/atul-vhd/Softwares/releases/download/Vmware/VMware-workstation-full-17.6.1-24319023.exe) and [docker](https://www.docker.com/)
+- **Virtual Machines**: [VMware Workstation Pro](https://github.com/atulPersonal/Window/releases//download/VMware-workstation-full-17.6.4/VMware-workstation-full-17.6.4-24832109.exe) and [docker](https://www.docker.com/)
     - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
     - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
   
