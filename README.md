@@ -128,6 +128,7 @@ I'm Atul.
 - **Component Library**: [ui.shadcn](https://ui.shadcn.com/)
 - **Syntax Highlighter**:  [syntax highlighting lib](https://prismjs.com/)
 - **JavaScript Testing**: [Jestjs](https://jestjs.io/)
+- **React code Issues Fixed**: [React.doctor](https://www.react.doctor/)
 - **Desktop Apps**: [ElectronJs](https://www.electronjs.org/)
 - **Fonts**: [google fonts](https://fonts.google.com/)
 - **Icons**: [fontawesome](https://fontawesome.com/)
@@ -157,6 +158,7 @@ I'm Atul.
 ## 📱 Android Development
 - **Android Studio**: [Android Studio](https://developer.android.com/studio) With [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
 - **Framework**: [React native](https://reactnative.dev/), [Expo](https://expo.dev/)
+- **App Testing** [expo-doctor](https://docs.expo.dev/develop/tools/)
   - **Navigation**: [reactnavigation](https://reactnavigation.org/)
   - **Async Storage**: [async-storage](https://react-native-async-storage.github.io/async-storage/)
   - **Vector Icons**: [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
