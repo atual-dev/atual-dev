@@ -93,11 +93,11 @@ I'm Atul.
 <!-- redis -->
  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
-# 👾 i like these awesome Softwares
+# 👾 I like these awesome Softwares
 
 ## 💻 Software
 
-- **Ram Cleaner Tool**: [WinMemoryCleaner](https://github.com/Repocitories/WinMemoryCleaner), [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare)
+- **Cleaner Tool**: [WinMemoryCleaner](https://github.com/Repocitories/WinMemoryCleaner), [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare), [Kudo](https://github.com/AdventDevInc/kudu)
 
 - **Assus Software**: [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/), [G-Helper](https://github.com/seerge/g-helper)
 
