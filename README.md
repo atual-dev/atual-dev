@@ -109,7 +109,8 @@ I'm Atul.
   
 - **Office**: [Ms office 365](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
 
-- **Video to Image Extractor**: [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe) 
+- **Video to Image Extractor**: [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe)
+- ***Gaming Emulatotor***: [Ryujinx_Emulator](https://github.com/atulPersonal/Ryujinx_Emulator)
 
 ## 📦 Coding Software
 - **Code Editor**: [vscode](https://code.visualstudio.com/)
