@@ -152,6 +152,7 @@ I'm Atul.
 
 ### Coding AI Friend
 -  **Freebuff**: [Freebuf](https://freebuff.com/)
+-  **OpenCode**: [OpenCode](https://opencode.ai/)
 
 ## 🎨 Design
 - **Figma**: [Figma](https://www.figma.com/)
