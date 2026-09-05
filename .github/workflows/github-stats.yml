@@ -1,0 +1,66 @@
+name: Update GitHub Stats Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up curl
+        run: sudo apt-get update && sudo apt-get install -y curl
+
+      - name: Generate GitHub Stats SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          USERNAME="${{ github.repository_owner }}"
+          THEME="tokyonight"
+          STATS_DIR="stats"
+
+          mkdir -p "$STATS_DIR"
+
+          STATS_API="https://github-readme-stats.vercel.app/api"
+          STATS_TOP="https://github-readme-stats.vercel.app/api/top-langs/"
+          STREAK_API="https://github-readme-streak-stats.herokuapp.com"
+
+          generate_card() {
+            local url="$1"
+            local out="$2"
+            local label="$3"
+            if curl -s -f -H "Accept: image/svg+xml" "$url" -o "$out"; then
+              echo "OK  $label -> $(basename "$out")"
+            else
+              echo "FAIL $label -> $(basename "$out") (endpoint down)"
+              rm -f "$out"
+            fi
+          }
+
+          generate_card "$STATS_API?username=$USERNAME&show_icons=true&theme=$THEME&hide_border=true&count_private=true&title_color=10A37F&icon_color=10A37F" "$STATS_DIR/stats.svg" "GitHub Stats"
+          generate_card "$STATS_TOP?username=$USERNAME&layout=compact&theme=$THEME&hide_border=true&title_color=10A37F&icon_color=10A37F" "$STATS_DIR/top-langs.svg" "Top Languages"
+          generate_card "$STREAK_API/?user=$USERNAME&theme=$THEME&hide_border=true" "$STATS_DIR/streak.svg" "GitHub Streak"
+
+          echo "Stats card generation finished for $USERNAME"
+
+      - name: Commit stats SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add stats/
+          if git diff --cached --quiet; then
+            echo "No changes to stats SVGs"
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub stats SVGs"
+          git push

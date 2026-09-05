@@ -1,168 +1,140 @@
-<!-- banner -->
+<div align="center">
 
-![Atugatran Banner](./img/github-header-image.png)
-<!-- tittle -->
-<h1 align='center'> Hi! There 👋</h1>
+<img src="./img/github-header-image.png" alt="Atugatran Banner" width="100%" />
 
-<!-- Subtittle -->
-<h2 align='center'>
-I'm Atul.
-</h2>
-<h3 align='center'> AM Responsible for what i say .....💲not for what u understand 👑👑👑🎓</h3>
-<h1 align='center'><i>Stay awesome!</i></h1>
+# Hi there, I'm Atul 👋
 
-<!-- FrontEnd -->
-<!-- <h2 align="center">FrontEnd Tools</h2> -->
-<p align="left"> 
-  <!-- Html -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <!-- hbd -->
-<a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353855/handlebars.svg" alt="hbs" width="40" height="40"/> </a>
-   <!-- Css -->
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <!-- Sass -->
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-   <!-- Javascript -->
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<!-- Babel -->
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a> 
- <!-- Bootstrap -->
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <!-- ReatJS -->
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <!-- TailWindCss -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-   <!-- NodeJS -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <!-- Nodejs Dev -->
-  <a href="https://nodejs.dev/en/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodejs.div" width="40" height="40"/> </a>
-    <!-- Npm -->
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354128/npm.svg" alt="npm" width="40" height="40"/> </a>
-    <!-- Yarn -->
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374205/yarn.svg" alt="yarn" width="40" height="40"/> </a>
-  <!--Express  -->
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<!-- Php -->
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-   <!-- MongoDB -->
-   <a href="https://www.mongodb.com/try/download/community" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-   <!-- MySQL -->
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<!-- Bash -->
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-   <!-- Linux -->
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<!-- PostMan -->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<!-- Vs Code -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vs code" width="40" height="40"/> </a>
- <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-   <!-- Firebase -->
- <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> -->
-<!-- Netlify -->
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376339/netlify.svg" alt="nodejs.div" width="40" height="40"/> </a>
-<!-- Python -->
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<!-- Oracle -->
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<!-- Android Studio -->
-<a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/android-studio--v3.png" alt="oracle" width="40" height="40"/> </a>
-<!-- AppWrite -->
- <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<!-- nextjs -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<!-- react native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<!-- redux -->
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<!-- Django -->
-<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> -->
-<!-- GraphQl -->
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-<!-- PostgresSql -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<!-- electronjs -->
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-<!-- redis -->
- <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<!-- Typing animation -->
+<a href="https://github.com/atual-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Frontend+%2B+Backend+%2B+Mobile;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 👾 I like these awesome Softwares
+**I own what I say — not what you think it means. 👑🎓**
 
-## 💻 Software
+<i>Stay awesome!</i> ✨
 
-- **Cleaner Tool**: [WinMemoryCleaner](https://github.com/Repocitories/WinMemoryCleaner), [Pc Manager](https://www.microsoft.com/store/productId/9PM860492SZD?ocid=pdpshare), [Kudo](https://github.com/AdventDevInc/kudu)
+<br />
 
-- **Assus Software**: [armory create](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/), [G-Helper](https://github.com/seerge/g-helper)
+<!-- Profile badges -->
+[![GitHub followers](https://img.shields.io/github/followers/atual-dev?style=for-the-badge&logo=github&color=2088FF)](https://github.com/atual-dev?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=atual-dev&style=for-the-badge&color=blueviolet)](https://github.com/atual-dev)
+[![Open to collaborate](https://img.shields.io/badge/Open_to_collaborate-yes-success?style=for-the-badge)](https://github.com/atual-dev)
 
-- **Graphics Drivers**: [Nvdia App](https://www.nvidia.com/en-in/software/nvidia-app/)
+</div>
 
-- **Virtual Machines**: [VMware Workstation Pro](https://github.com/atulPersonal/Window/releases//download/VMware-workstation-full-17.6.4/VMware-workstation-full-17.6.4-24832109.exe) and [docker](https://www.docker.com/)
-    - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual) 
-    - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6?ocid=pdpshare)
-  
-- **Office**: [Ms office 365](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe) and [Ms office with active](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
+## 🧑‍💻 About Me
 
-- **Video to Image Extractor**: [ffmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi) and [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe)
-- ***Gaming Emulatotor***: [Ryujinx_Emulator](https://github.com/atulPersonal/Ryujinx_Emulator)
+```yaml
+name: Atul
+role: Full-Stack Developer
+currently_learning: [Next.js, React Native, System Design]
+ask_me_about: [JavaScript, TypeScript, React, Node.js, Python]
+fun_fact: "I turn ☕ into code"
+```
 
-## 📦 Coding Software
-- **Code Editor**: [vscode](https://code.visualstudio.com/)
-   - **Fonts**: [fira code](https://github.com/Atugatran/Atugatran/releases/download/fira_code/Fira_Code_v6.2.zip)
-- **Version Control**: [git](https://git-scm.com/), [github](https://github.com/)
-- **Test API**: [Postman](https://www.postman.com/downloads/), [Requestly](https://requestly.com/)
+---
 
-## 🛠 Tools and Technologies
+## 🛠 Tech Stack
+
+### Languages & Frontend
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,babel,pug,react,nextjs,redux,bootstrap,tailwind,electron&perline=7" alt="HTML, CSS, Sass, JavaScript, TypeScript, Babel, Pug, React, Next.js, Redux, Bootstrap, Tailwind, Electron" />
+</a>
+
+<sub>These are some of the tools I use for web and desktop work:<br />
+**HTML · CSS · Sass · JavaScript · TypeScript · Babel · Pug · React · Next.js · Redux · Bootstrap · Tailwind · Electron · React Native**</sub>
+
+</div>
+
+### Backend, Data & Tools
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,py,graphql,mongodb,mysql,postgres,redis,docker,git,linux,bash,appwrite,postman,figma,firebase,netlify,vscode&perline=7" alt="Node.js, Express, PHP, Python, GraphQL, MongoDB, MySQL, PostgreSQL, Redis, Docker, Git, Linux, Bash, Appwrite, Postman, Figma, Firebase, Netlify, VS Code" />
+</a>
+
+<sub>Tools for servers, data, and everyday development:<br />
+**Node.js · Express · PHP · Python · GraphQL · MongoDB · MySQL · PostgreSQL · Redis · Oracle · Docker · Git · Linux · Bash · Appwrite · Postman · Figma · Firebase · Netlify · VS Code**</sub>
+
+</div>
+
+---
+
+## 🖥 My Favorite Software
+
+### 💻 Everyday Essentials
+
+- **Cleaner Tools** → [WinMemoryCleaner](https://github.com/Repocitories/WinMemoryCleaner), [PC Manager](https://www.microsoft.com/store/productId=9PM860492SZD?ocid=pdpshare), [Kudo](https://github.com/AdventDevInc/kudu)
+- **ASUS Software** → [Armoury Crate](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/), [G-Helper](https://github.com/seerge/g-helper)
+- **Graphics Drivers** → [NVIDIA App](https://www.nvidia.com/en-in/software/nvidia-app/)
+
+### 🕹 Virtualization & Gaming
+
+- **Virtual Machines** → [VMware Workstation Pro](https://github.com/atulPersonal/Window/releases/download/VMware-workstation-full-17.6.4/VMware-workstation-full-17.6.4-24832109.exe), [Docker](https://www.docker.com/)
+  - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install-manual)
+  - [Debian (Microsoft Store)](https://www.microsoft.com/store/productId=9MSVKQC78PK6?ocid=pdpshare)
+- **Gaming Emulator** → [Ryujinx](https://github.com/atulPersonal/Ryujinx_Emulator)
+
+### 📄 Media & Office
+
+- **Office** → [MS Office 365](https://github.com/Atugatran/Atugatran/releases/download/OfficeSetup/OfficeSetup.exe), [MS Office 2021 (activated)](https://github.com/Atugatran/Atugatran/releases/tag/office2021_WithActivation)
+- **Video → Image Extractor** → [FFmpeg](https://github.com/Atugatran/Atugatran/releases/download/ffmpeg/ffmpeg.msi), [SheryExtract](https://github.com/Atugatran/Atugatran/releases/download/SheryExtract/SheryExtract.exe)
+
+### 📦 Coding Setup & Testing
+
+- **Code Editor** → [VS Code](https://code.visualstudio.com/) — with the [Fira Code font](https://github.com/Atugatran/Atugatran/releases/download/fira_code/Fira_Code_v6.2.zip)
+- **Version Control** → [Git](https://git-scm.com/), [GitHub](https://github.com/)
+- **API Testing** → [Postman](https://www.postman.com/downloads/), [Requestly](https://requestly.com/)
+
+---
+
+## 🧰 Toolbox & Go-To Resources
 
 ### Frontend
-- **Basics**: [Html](https://html.com/), [Php](https://www.php.net/), [Css](https://www.w3schools.com/css/), [Js](https://www.javascript.com/), [Saas](https://sass-lang.com/), [Pug](https://pugjs.org/api/getting-started.html)
-- **Frontend Framework**: [Bootstrap](https://getbootstrap.com/), [Tailwind](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/)
-- **Libraries**: [ReactJs](https://react.dev/), [tailblocks](https://tailblocks.cc/), [ReduxToolkit](https://redux-toolkit.js.org/), [KaboomJs](https://kaboomjs.com/)
-- **Animation Libraries**: [AOS](https://michalsnik.github.io/aos/), [AnimeJs](https://animejs.com/),[ThreeJs](https://threejs.org/), [Gsap](https://gsap.com/), [Motion](https://motion.dev/)
-  
-- **Component Library**: [ui.shadcn](https://ui.shadcn.com/)
-- **Syntax Highlighter**:  [syntax highlighting lib](https://prismjs.com/)
-- **JavaScript Testing**: [Jestjs](https://jestjs.io/)
-- **React code Issues Fixed**: [React.doctor](https://www.react.doctor/)
-- **Desktop Apps**: [ElectronJs](https://www.electronjs.org/)
-- **Fonts**: [google fonts](https://fonts.google.com/)
-- **Icons**: [fontawesome](https://fontawesome.com/)
 
-### Backend
-- **Node.js**: [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/)
-- **NextJs**: [NextJs](https://nextjs.org/)
-- **Python**: [Python](https://python.org/), [Fastapi](https://fastapi.tiangolo.com/)
+| Category | Tools |
+|---|---|
+| **Basics** | [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/), [JavaScript](https://www.javascript.com/), [PHP](https://www.php.net/), [Sass](https://sass-lang.com/), [Pug](https://pugjs.org/api/getting-started.html), [Handlebars](https://handlebarsjs.com/) |
+| **Frameworks** | [Bootstrap](https://getbootstrap.com/), [Tailwind CSS](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/) |
+| **Libraries** | [React](https://react.dev/), [Redux Toolkit](https://redux-toolkit.js.org/), [Tailblocks](https://tailblocks.cc/), [Kaboom.js](https://kaboomjs.com/) |
+| **Animation** | [AOS](https://michalsnik.github.io/aos/), [Anime.js](https://animejs.com/), [Three.js](https://threejs.org/), [GSAP](https://gsap.com/), [Motion](https://motion.dev/) |
+| **UI & Styling** | [shadcn/ui](https://ui.shadcn.com/), [Google Fonts](https://fonts.google.com/), [Font Awesome](https://fontawesome.com/), [Prism](https://prismjs.com/) for syntax highlighting |
+| **Testing & QA** | [Jest](https://jestjs.io/), [React Doctor](https://www.react.doctor/) |
+| **Desktop Apps** | [Electron](https://www.electronjs.org/) |
 
+### Backend & Runtime
 
-### API & Databases & Deployment
-- **GraphQL**: [GraphQL](https://graphql.org/)
-- **Databases**: [MongoDb](https://www.mongodb.com/try/download/community), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [AppWrite](https://appwrite.io/)
-- **Deployment**: [Cloudflare](https://www.cloudflare.com/), [infinityfree](https://www.infinityfree.com/) ,[Github Pages](https://pages.github.com/), [Vercel](https://vercel.com/)  ,[Render](https://render.com/), [Netlify](https://www.netlify.com/)
+| Category | Tools |
+|---|---|
+| **Node.js** | [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) |
+| **Next.js** | [Next.js](https://nextjs.org/) |
+| **Python** | [Python](https://python.org/), [FastAPI](https://fastapi.tiangolo.com/) |
+| **PHP Runtime** | [XAMPP](https://www.apachefriends.org/), [WAMP](https://wampserver.aviatechno.net/) |
+| **In-browser JS** | [WebContainers](https://webcontainers.io/) |
 
+### Data, APIs & Deployment
 
-###  Runtime
-- **Php Code Runner**: [Xampp](https://www.apachefriends.org/), [Wamp](https://wampserver.aviatechno.net/) 
-- **JavaScript Engine For Web:** [WebContainer](https://webcontainers.io/)
+| Category | Tools |
+|---|---|
+| **APIs** | [GraphQL](https://graphql.org/) |
+| **Databases / BaaS** | [MongoDB](https://www.mongodb.com/try/download/community), [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [Redis](https://redis.io/), [Oracle](https://www.oracle.com/database/), [Appwrite](https://appwrite.io/) |
+| **Deployment** | [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Cloudflare](https://www.cloudflare.com/), [GitHub Pages](https://pages.github.com/), [InfinityFree](https://www.infinityfree.com/) |
 
-### Coding AI Friend
--  **Freebuff**: [Freebuf](https://freebuff.com/)
--  **OpenCode**: [OpenCode](https://opencode.ai/)
+### 🤖 Coding AI Friends
 
-## 🎨 Design
-- **Figma**: [Figma](https://www.figma.com/)
+- [Freebuff](https://freebuff.com/)
 
-## 📱 Android Development
-- **Android Studio**: [Android Studio](https://developer.android.com/studio) With [Open JDK 17](https://learn.microsoft.com/en-us/java/openjdk/download)
-- **Framework**: [React native](https://reactnative.dev/), [Expo](https://expo.dev/)
-- **App Testing** [expo-doctor](https://docs.expo.dev/develop/tools/)
-  - **Navigation**: [reactnavigation](https://reactnavigation.org/)
-  - **Async Storage**: [async-storage](https://react-native-async-storage.github.io/async-storage/)
-  - **Vector Icons**: [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+### 📱 Android Development
 
-</p>
+| Category | Tools |
+|---|---|
+| **IDE & JDK** | [Android Studio](https://developer.android.com/studio), [OpenJDK 17](https://learn.microsoft.com/en-us/java/openjdk/download) |
+| **Framework** | [React Native](https://reactnative.dev/), [Expo](https://expo.dev/) |
+| **App Testing** | [Expo Tools](https://docs.expo.dev/develop/tools/) |
+| **Navigation** | [React Navigation](https://reactnavigation.org/) |
+| **Storage** | [Async Storage](https://react-native-async-storage.github.io/async-storage/) |
+| **Icons** | [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) |
