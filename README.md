@@ -68,7 +68,7 @@ fun_fact: "I turn ☕ into code"
 
 ### 💻 Everyday Essentials
 
-- **Cleaner Tools** → [WinMemoryCleaner](https://github.com/Repocitories/WinMemoryCleaner), [PC Manager](https://www.microsoft.com/store/productId=9PM860492SZD?ocid=pdpshare), [Kudo](https://github.com/AdventDevInc/kudu)
+- **Cleaner Tools** → [WinMemoryCleaner](https://github.com/Repocitories/WinMemoryCleaner), [PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=IN), [Kudo](https://github.com/AdventDevInc/kudu)
 - **ASUS Software** → [Armoury Crate](https://www.asus.com/my/supportonly/armoury%20crate/helpdesk_download/), [G-Helper](https://github.com/seerge/g-helper)
 - **Graphics Drivers** → [NVIDIA App](https://www.nvidia.com/en-in/software/nvidia-app/)
 
