@@ -127,6 +127,7 @@ fun_fact: "I turn ☕ into code"
 ### 🤖 Coding AI Friends
 
 - [Freebuff](https://freebuff.com/)
+- [OpenCode](https://opencode.ai/)
 
 ### 📱 Android Development
 
